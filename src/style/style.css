@@ -1,0 +1,309 @@
+/*login*/
+.bgLogin {
+    background-image: url(../assets/image/bg.jpg);
+
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    font-family: "Roboto";
+}
+
+.Clogin {
+    text-align: center;
+}
+
+.H1Log {
+    padding-top: 88px;
+    padding-bottom: 77px;
+    font-weight: 800;
+    font-size: 64px;
+    line-height: 75px;
+    color: white;
+    background: none;
+
+}
+
+.H3Log {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 80px;
+    color: #FFFFFF;
+    width: 700px;
+    margin-left: 300px;
+
+}
+
+.Signin {
+    padding-top: 79px;
+    font-size: 16px;
+}
+
+.login {
+    padding-top: 90px;
+    font-size: 16px;
+}
+
+.cusbtn {
+    background: #ffffff;
+    color: black;
+    padding: 15px 80px;
+    text-transform: uppercase;
+    border: none;
+}
+
+.cusbtn1 {
+    background: #F0A500;
+    color: black;
+    padding: 15px 90px;
+    text-transform: uppercase;
+}
+
+.linkAcc {
+    color: white;
+    padding-top: 100px;
+    display: inline-flex;
+}
+
+.logoD {
+    text-align: center;
+    margin: 0px auto;
+    display: block;
+    width: 50px;
+    height: 50px;
+}
+
+.login_button {
+    margin: 0;
+    position: relative;
+    align-items: center;
+}
+
+
+/*Lform*/
+.Container {
+    font-family: "Roboto";
+}
+
+.Fcon {
+    background-color: white;
+    text-align: center;
+    height: 704px;
+    width: 1147px;
+    padding: 50px 50px;
+
+}
+
+.space {
+    padding-top: 158px;
+    margin: 0px 390px;
+
+}
+
+.dash {
+    padding-top: 7px;
+    height: 60px;
+    font-weight: 700;
+    line-height: 30x;
+    font-size: 24px;
+    letter-spacing: 0.3px;
+}
+
+.textE {
+    padding-top: 7px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 0.3px;
+
+}
+
+.Temail {
+    padding-top: 28px;
+    height: 64px;
+    padding-left: 32px;
+    padding-right: 32px;
+    text-align: left;
+}
+.mb {
+    margin-bottom: 180px;
+}
+
+/* sidebar header*/
+a:hover {
+    color: blue !important;
+}
+
+.logoSide {
+    width: 32px;
+    height: 32px;
+}
+header{
+    z-index: 1000;
+}
+
+.nav-link.active {
+    background-color: #dc3545 !important;
+    color: #FFFFFF !important;
+    margin: 15px 10px 20px 36px;
+    
+}
+
+.nav-link {
+    color: #FFFFFF !important;
+    margin: 5px 0px 5px 5px;
+}
+
+.note.active {
+    background-color: #dc3545 !important;
+    color: #FFFFFF !important;
+    margin: 15px 0px 20px 0px;
+}
+
+.note {
+    color: #FFFFFF !important;
+}
+
+.atas {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 19px;
+    line-height: 24px;
+    letter-spacing: 0.4px;
+}
+
+.notes {
+    margin-top: 125%;
+    text-align: center;
+}
+
+
+input[type="time"]::-webkit-calendar-picker-indicator {
+    width: 20px;
+    height: 14px;
+    background: url("https://mywildalberta.ca/images/GFX-MWA-Parks-Reservations.png")no-repeat;
+}
+/**/
+.edit{
+    font-family: 'Roboto';
+    text-transform: capitalize;
+}
+
+
+/**/
+.TextU{
+    margin-right: 30px;
+}
+.back{
+    font-family: 'Roboto';
+}
+
+.filter__button{
+    margin-right: 20px;
+    padding: 10px 40px !important;
+    background-color: transparent !important;
+    color: black !important;
+    border-color: rgb(208, 208, 208) !important;
+    border-radius: 100px !important;
+    -webkit-border-radius: 100px !important;
+    -moz-border-radius: 100px !important;
+    -ms-border-radius: 100px !important;
+    -o-border-radius: 100px !important;
+}
+.filter__button-active{
+    background-color: #DC4298 !important;
+    border-color: #DC4298 !important;
+    color: white !important;
+    font-weight: 700 !important;
+}
+.create__button{
+    padding: 10px 40px !important;
+    background-color: #FB6B03 !important;
+    border-color: #FB6B03 !important;
+}
+.edit_product{
+    width: 50px;
+    height: 40px;
+    /* padding: 10px 40px !important; */
+
+}
+.product__subtitle{
+    font-size: 14px;
+    color: #23A6F0;
+    text-align: center;
+    font-weight: 700;
+}
+.product__title{
+    font-size: 22px;
+    font-family: 'DM Serif Display';
+    font-weight: 600;
+}
+.product__description{
+    font-family: 'Montserrat';
+    font-size: 14px;
+    color: #737373;
+    font-weight: 400;
+}
+.product__price-old{
+    font-family: 'Montserrat';
+    font-weight: 600;
+    font-size: 16px;
+    color: #BDBDBD;
+    margin-right: 5px;
+}
+.product__price-new{
+    font-family: 'Montserrat';
+    font-weight: 600;
+    font-size: 16px;
+    color: #40BB15;
+    margin-right: 5px;
+    
+}
+.product__icon-detail span{
+    font-family: 'Montserrat';
+    font-size: 12px;
+    color: #737373;
+}
+.product__icon-list{
+    display: flex;
+    font-size: 12px;
+    color: #737373;
+}
+.product__icon-list img{
+    margin-right: 5px;
+}
+
+
+.unit__subtitle{
+    font-size: 14px;
+    color: #23A6F0;
+    /* text-align: center; */
+    font-weight: 700;
+}
+.unit__title{
+    font-size: 22px;
+    font-family: 'DM Serif Display';
+    font-weight: 600;
+
+}
+.unit_icon-list{
+    display: flex;
+    font-size: 12px;
+    color: #737373;
+}.unit__icon-detail span{
+    font-family: 'Montserrat';
+    font-size: 12px;
+    color: #737373;
+    
+}
+.unit__icon-list{
+    display: flex;
+    font-size: 12px;
+    color: #737373;
+    margin-right: 100px;
+
+}
+.unit__icon-list img{
+    margin-right: 5px;
+}

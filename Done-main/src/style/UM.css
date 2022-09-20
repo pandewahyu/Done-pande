@@ -1,0 +1,83 @@
+.back {
+    background-size: cover;
+
+}
+
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: white;
+    opacity: 1; /* Firefox */
+  }
+.select{
+    color: white;
+}
+
+.content1{
+    margin-right: 53px;
+    margin-bottom: 20px;
+    background-color: #545454;
+    color: white;
+    border-radius: 5px;
+    width: 200px;
+    height: 32px;
+    text-align: center;
+}
+.rdt_TableCol{
+   background-color: #F2ad00;
+    color: white;
+}
+.rdt_TableHeadRow{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 800;
+font-size: 17px;
+line-height: 150%;
+text-transform: capitalize;
+}
+
+.DataTable .rdt_TableRow{
+    border-bottom-style: none !important ;
+}
+.end{
+    float: right;
+}
+
+.rdt_TableCell input {
+    filter: invert(70%) hue-rotate(19deg) brightness(2) !important;
+    
+}
+.rdt_TableCol input {
+    filter: invert(70%) hue-rotate(19deg) brightness(2) !important;
+    
+}
+input[type="checkbox"]{
+    transform: scale(1.5);
+}
+.border{
+    box-shadow: 1px 1px 2px 2px;
+}
+
+.img{
+    background-color: #929191;
+    padding: 25px 25px;
+    border-radius: 50%;
+    border: 1px solid black;
+}
+.modal-header{
+    background-color: #F2AD00;
+}
+.col .hari{
+    background: #F4B61B;
+    padding: 5px 20px;
+    width: 100px;
+    margin: 5px;
+    border-radius: 10px;
+    color: white;
+}
+.Mbody{
+    background-color: #383F51;
+    color: white;
+}
+
+.nama{
+    padding: 25px 0px;
+}

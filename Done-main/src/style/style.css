@@ -1,0 +1,168 @@
+/*login*/
+.bgLogin {
+    background-image: url(../assets/image/bg.jpg);
+
+    background-position: center;
+    background-size:cover;
+    height: 100vh;
+    font-family: "Roboto";
+}
+
+.Clogin {
+    text-align: center;
+}
+
+.H1Log {
+    padding-top: 88px;
+    padding-bottom: 77px;
+    font-weight: 800;
+    font-size: 64px;
+    line-height: 75px;
+    color: white;
+    background: none;
+
+}
+
+.H3Log {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 80px;
+    color: #FFFFFF;
+    width: 700px;
+   margin-left: 300px;
+    
+}
+
+.Signin {
+    padding-top: 79px;
+    font-size: 16px;
+}
+
+.login {
+    padding-top: 90px;
+    font-size: 16px;
+}
+
+.cusbtn {
+    background: #ffffff;
+    color: black;
+    padding: 15px 80px;
+    text-transform: uppercase;
+    border: none;
+}
+
+.cusbtn1 {
+    background: #F0A500;
+    color: black;
+    padding: 15px 90px;
+    text-transform: uppercase;
+}
+
+.linkAcc {
+    color: white;
+    padding-top: 100px;
+    display: inline-flex;
+}
+
+.logoD {
+    text-align: center;
+    margin: 0px auto;
+    display: block;
+    width: 50px;
+    height: 50px;
+}
+
+.login_button {
+    margin: 0;
+    position: relative;
+    align-items: center;
+}
+
+
+/*Lform*/
+.Container{
+    font-family: "Roboto";
+}
+.Fcon {
+    background-color: white;
+    text-align: center;
+    height: 704px;
+    width: 1147px;
+    padding: 50px 50px;
+
+}
+.space {
+    padding-top: 158px;
+    margin: 0px 390px;
+  
+}
+
+.dash{
+    padding-top: 7px;
+    height: 60px;
+    font-weight: 700;
+    line-height: 30x;
+    font-size: 24px;
+    letter-spacing: 0.3px;
+}
+.textE{
+    padding-top: 7px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 0.3px;
+    
+}
+.Temail{
+    padding-top: 28px;
+    height: 64px;
+    padding-left: 32px;
+    padding-right: 32px;
+    text-align: left;
+}
+a:hover{ 
+    color: blue !important;
+}
+
+.mb{
+    margin-bottom: 180px;
+
+}
+.logoSide{
+    width: 32px;
+    height: 32px;
+}
+
+.nav-link.active{
+    background-color: #dc3545 !important;
+    color: #FFFFFF !important;
+    margin: 15px 0px;
+}
+.nav-link{
+    color: #FFFFFF !important;
+    margin: 5px 0px;
+}
+
+.note.active{
+    background-color: #dc3545 !important;
+    color: #FFFFFF !important;
+    margin: 15px 0px;
+}
+.note{
+    color: #FFFFFF !important;
+}
+
+.atas{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 19px;
+line-height: 24px;
+letter-spacing: 0.4px;
+}
+
+.notes{
+    margin-top: 125%;
+    text-align: center;
+}
